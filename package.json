@@ -1,0 +1,25 @@
+{
+  "name": "angular_unit_testing",
+  "version": "1.0.0",
+  "description": "playing around with angular and unit testing",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jane Irwin",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/FieryStudios/angular_unit_testing.git"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-jasmine": "^2.4.2",
+    "jasmine-core": "^2.5.2",
+    "karma": "^1.4.0",
+    "karma-chrome-launcher": "^2.0.0",
+    "karma-cli": "^1.0.1",
+    "karma-jasmine": "^1.1.0",
+    "karma-phantomjs-launcher": "^1.0.2"
+  }
+}
